@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# Final Project\\SchoolManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\managestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\managestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\managestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\managestudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\marksmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\marksmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\managedoctornurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\managedoctornurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\managedoctornurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\managedoctornurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\allstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\allstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\allstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\allstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\classschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\classschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|e:\\c# final project\\schoolmanagementsystem\\schoolmanagementsystem\\teacherregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40908EAC-D93B-38AB-C314-485FBF8097C0}|SchoolManagementSystem\\SchoolManagementSystem.csproj|solutionrelative:schoolmanagementsystem\\teacherregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageStudents.cs [Design]",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\ManageStudents.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\ManageStudents.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\ManageStudents.cs [Design]",
+              "RelativeToolTip": "SchoolManagementSystem\\ManageStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T09:20:27.736Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDashboard.cs",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\StudentDashboard.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\StudentDashboard.cs",
+              "RelativeToolTip": "SchoolManagementSystem\\StudentDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T07:04:53.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\AdminDashboard.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "SchoolManagementSystem\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:59:36.978Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Login.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\Login.cs [Design]",
+              "RelativeToolTip": "SchoolManagementSystem\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:49:04.346Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageStudents.cs",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\ManageStudents.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\ManageStudents.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\ManageStudents.cs",
+              "RelativeToolTip": "SchoolManagementSystem\\ManageStudents.cs",
+              "ViewState": "AgIAAPwBAAAAAAAAAAAiwP4BAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T09:20:30.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarksManagement.cs [Design]",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\MarksManagement.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\MarksManagement.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\MarksManagement.cs [Design]",
+              "RelativeToolTip": "SchoolManagementSystem\\MarksManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T07:49:33.372Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageDoctorNurse.cs",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\ManageDoctorNurse.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\ManageDoctorNurse.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\ManageDoctorNurse.cs*",
+              "RelativeToolTip": "SchoolManagementSystem\\ManageDoctorNurse.cs*",
+              "ViewState": "AgIAALAAAAAAAAAAAAAswJwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T07:48:56.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageDoctorNurse.cs [Design]",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\ManageDoctorNurse.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\ManageDoctorNurse.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\ManageDoctorNurse.cs [Design]*",
+              "RelativeToolTip": "SchoolManagementSystem\\ManageDoctorNurse.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T07:48:54.314Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AllStudents.cs",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\AllStudents.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\AllStudents.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\AllStudents.cs",
+              "RelativeToolTip": "SchoolManagementSystem\\AllStudents.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAIAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:59:55.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\AdminDashboard.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\AdminDashboard.cs",
+              "RelativeToolTip": "SchoolManagementSystem\\AdminDashboard.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:59:41.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\StudentDashboard.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\StudentDashboard.cs [Design]",
+              "RelativeToolTip": "SchoolManagementSystem\\StudentDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:26:16.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClassSchedule.cs [Design]",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\ClassSchedule.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\ClassSchedule.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\ClassSchedule.cs [Design]",
+              "RelativeToolTip": "SchoolManagementSystem\\ClassSchedule.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:53:36.833Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AllStudents.cs [Design]",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\AllStudents.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\AllStudents.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\AllStudents.cs [Design]",
+              "RelativeToolTip": "SchoolManagementSystem\\AllStudents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:41:05.789Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\Login.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\Login.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\Login.cs",
+              "RelativeToolTip": "SchoolManagementSystem\\Login.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAswK8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:49:07.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeacherRegistration.cs [Design]",
+              "DocumentMoniker": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\TeacherRegistration.cs",
+              "RelativeDocumentMoniker": "SchoolManagementSystem\\TeacherRegistration.cs",
+              "ToolTip": "E:\\C# Final Project\\SchoolManagementSystem\\SchoolManagementSystem\\TeacherRegistration.cs [Design]",
+              "RelativeToolTip": "SchoolManagementSystem\\TeacherRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:38:21.069Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

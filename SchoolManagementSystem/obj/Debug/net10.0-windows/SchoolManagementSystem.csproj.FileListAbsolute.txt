@@ -1,0 +1,239 @@
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.exe
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.deps.json
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.runtimeconfig.json
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.pdb
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Google.Protobuf.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\MySql.Data.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\ZstdSharp.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.csproj.AssemblyReference.cache
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.AdminDashboard.resources
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.AllStudents.resources
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ClassSchedule.resources
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.Login.resources
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ManageCourses.resources
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ManageStudents.resources
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ManageTeachers.resources
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.MarksManagement.resources
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.Properties.Resources.resources
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.StudentDashboard.resources
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.TeacherDashboard.resources
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.TeacherRegistration.resources
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.csproj.GenerateResource.cache
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.AssemblyInfoInputs.cache
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.AssemblyInfo.cs
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolMa.D9F7BBC0.Up2Date
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\refint\SchoolManagementSystem.dll
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.pdb
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.genruntimeconfig.cache
+E:\13th semester\C# project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\ref\SchoolManagementSystem.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.exe
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.deps.json
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.runtimeconfig.json
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.pdb
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Google.Protobuf.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\MySql.Data.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\ZstdSharp.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.csproj.AssemblyReference.cache
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.AdminDashboard.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.AllStudents.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ClassSchedule.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.Login.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ManageCourses.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ManageStudents.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ManageTeachers.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.MarksManagement.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.Properties.Resources.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.StudentDashboard.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.TeacherDashboard.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.TeacherRegistration.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.csproj.GenerateResource.cache
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.AssemblyInfoInputs.cache
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.AssemblyInfo.cs
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolMa.D9F7BBC0.Up2Date
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\refint\SchoolManagementSystem.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.pdb
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.genruntimeconfig.cache
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\ref\SchoolManagementSystem.dll
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ManageMedicalCenter.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.CreateEditForm.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ManageDoctorNurse.resources
+D:\SchoolManagementSystem_New\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.AttendanceManagement.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.exe
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.deps.json
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.runtimeconfig.json
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\SchoolManagementSystem.pdb
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Google.Protobuf.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\MySql.Data.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\ZstdSharp.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.csproj.AssemblyReference.cache
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.AdminDashboard.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.AllStudents.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.AttendanceManagement.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ClassSchedule.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.CreateEditForm.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.Login.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ManageCourses.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ManageDoctorNurse.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ManageMedicalCenter.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ManageStudents.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.ManageTeachers.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.MarksManagement.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.Properties.Resources.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.StudentDashboard.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.TeacherDashboard.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.TeacherRegistration.resources
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.csproj.GenerateResource.cache
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.AssemblyInfoInputs.cache
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.AssemblyInfo.cs
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolMa.D9F7BBC0.Up2Date
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\refint\SchoolManagementSystem.dll
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.pdb
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\SchoolManagementSystem.genruntimeconfig.cache
+E:\C# Final Project\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0-windows\ref\SchoolManagementSystem.dll
